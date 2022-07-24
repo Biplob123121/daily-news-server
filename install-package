@@ -1,0 +1,5 @@
+----------npm initialize--------
+1. npm init -y
+
+--------express, cors, dotenv, mongodb-----------
+2. npm i express cors dotenv mongodb 
